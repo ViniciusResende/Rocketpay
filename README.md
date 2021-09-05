@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="Elixir" src="https://elixir-lang.org/images/logo/logo.png" width="400px" />
 </h1>
-<p align= "center">:man_astronaut: An repository visioning the development of an API using Elixir that will create users and accounts to those users :man_astronaut:</p>
+<p align= "center">:man_astronaut: An repository visioning the development of an API using Elixir to ground concepts </p>
 
 <h4 align="center"> 
 	:construction:  Next Level Week 4 | Elixir Trail by Rocketseat  :rocket: | | In development  :construction:
